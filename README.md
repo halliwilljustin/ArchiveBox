@@ -328,7 +328,7 @@ See <a href="#%EF%B8%8F-cli-usage">below</a> for more usage examples using the C
 <br/><br/>
 </details>
 
-<details>
+<!--<details>
 <summary><b><img src="https://user-images.githubusercontent.com/511499/117447803-f2ec3700-af0b-11eb-87d3-671d114f011d.png" alt="homebrew" height="28px" align="top"/> <code>brew</code></b> (macOS only)</summary>
 <br/>
 <ol>
@@ -360,7 +360,7 @@ archivebox help
 See <a href="#%EF%B8%8F-cli-usage">below</a> for more usage examples using the CLI, Web UI, or filesystem/SQL/Python to manage your archive.<br/>
 <sub>See the <a href="https://github.com/ArchiveBox/homebrew-archivebox"><code>homebrew-archivebox</code></a> repo for more details about this distribution.</sub>
 <br/><br/>
-</details>
+</details>-->
 
 <details>
 <summary><img src="https://user-images.githubusercontent.com/511499/118077361-f0616580-b381-11eb-973c-ee894a3349fb.png" alt="Arch" height="28px" align="top"/> <code>pacman</code> / <img src="https://user-images.githubusercontent.com/511499/118077946-29e6a080-b383-11eb-94f0-d4871da08c3f.png" alt="FreeBSD" height="28px" align="top"/> <code>pkg</code> / <img src="https://user-images.githubusercontent.com/511499/118077861-002d7980-b383-11eb-86a7-5936fad9190f.png" alt="Nix" height="28px" align="top"/> <code>nix</code> (Arch/FreeBSD/NixOS/more)</summary>
